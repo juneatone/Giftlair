@@ -130,12 +130,13 @@ const GLOBAL_CSS = `
  * └─────────────────────────────────────────────────────────────────┘
  */
 const FIREBASE_CONFIG = {
-  apiKey:            "YOUR_API_KEY",
-  authDomain:        "YOUR_PROJECT.firebaseapp.com",
-  projectId:         "YOUR_PROJECT_ID",
-  storageBucket:     "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId:             "YOUR_APP_ID",
+  apiKey: "AIzaSyDEoa5y4zz3EtcqNjjVVdPq2zORKBDCyxg",
+  authDomain: "giftlair-4dfcb.firebaseapp.com",
+  projectId: "giftlair-4dfcb",
+  storageBucket: "giftlair-4dfcb.firebasestorage.app",
+  messagingSenderId: "967528798558",
+  appId: "1:967528798558:web:baf98ace90556276e597cf",
+  measurementId: "G-P5SP0LWPGS"
 };
 
 // Detect if config is real or placeholder
